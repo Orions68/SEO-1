@@ -6,11 +6,20 @@
             transform: translateY(-5px);
             box-shadow: 0 8px 25px rgba(0,0,0,0.15);
         }
-        .guitar-img {
+        /* .guitar-img {
             height: 250px;
             object-fit: cover;
             border-radius: 10px;
+        } */
+
+        .guitar-img {
+            height: 220px;
+            object-fit: contain;
+            background: #fff;
+            border-radius: 0.5rem 0.5rem 0 0;
+            cursor: pointer;
         }
+
         .price {
             font-size: 1.5rem;
             font-weight: bold;
