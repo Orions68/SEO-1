@@ -1,5 +1,5 @@
 Title: Debe tener entre 35 y 65 caracteres
-Description: Cebe tener entre 120 y 320 caracteres
+Description: Debe tener entre 120 y 320 caracteres
 Keyword según página (Home - Portada)
 
 Robots Tag: Robots.txt
