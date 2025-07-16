@@ -25,6 +25,14 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://nexus-astralis.vercel.app/constellation</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nexus-astralis.vercel.app/star</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://nexus-astralis.vercel.app/events</loc>
     <priority>0.6</priority>
   </url>
