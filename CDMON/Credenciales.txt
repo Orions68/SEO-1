@@ -1,5 +1,7 @@
 Acceso a CDMON:
 
+http://guitar368:yv69RRJb@www.guitarluthier.com.mialias.net/
+
 User:
 guitar368
 
@@ -13,3 +15,28 @@ Usuario:
 
 Pass:
 J6qP50q2
+
+
+Prueba para el Examen:
+
+Documentar cómo crear un nuevo proyecto (Plataforma de Pruebas)
+
+Creé el nuevo proyecto pruebaexamen
+
+User:
+
+prueba276
+
+Pass:
+
+eB43f9XP
+
+Credenciales Wordpress:
+
+User:
+
+ab61bb4b4537
+
+Pass:
+
+91Gcs1PT
