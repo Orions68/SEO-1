@@ -40,3 +40,8 @@ ab61bb4b4537
 Pass:
 
 91Gcs1PT
+
+
+Para ejecutar en Powershell sin ser Administrador:
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
