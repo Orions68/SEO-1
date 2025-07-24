@@ -45,3 +45,50 @@ Pass:
 Para ejecutar en Powershell sin ser Administrador:
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+
+Marketing Digital:
+
+Tasa de Alcance
+
+|Me Gusta + Comentarios + Compartidos + Guardados  |
+|------------------------------------------------  |	* 100
+|			Alcance o Seguidores                   |
+
+300 + 50 + 20
+------------- =  370
+	2000		---- * 100 = 18.5 %
+				2000
+			
+Tasa de Conversión:
+
+Nº de Conversiones
+------------------ * 100
+  Nº de Visitas
+  
+  40 
+ ---- * 100 = 20 %
+ 200
+ 
+ CTR Tasa de Clicks:
+ 
+ Click en Enlace
+ --------------- * 100
+   Impresiones
+   
+  60
+---- * 100 = 5 %
+1200
+
+
+Crecimiento de los Seguidores:
+
+Cuanto ha Aumentado la Comunidad:
+
+Crecimiento = Nuevos Seguidores / Total Anterior de Seguidores * 100
+
+ 150
+---- * 100 = 15 %
+1000
+
+
