@@ -42,6 +42,31 @@ Pass:
 91Gcs1PT
 
 
+Terceras Credenciales:
+
+Acceso a la Plataforma:
+
+User:
+
+seotes814
+
+
+Pass:
+
+nII1F72q
+
+
+Acceso a Wordpress:
+
+User:
+
+480988880b5f
+
+Pass:
+
+9QIa1HJ2
+
+
 Para ejecutar en Powershell sin ser Administrador:
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
