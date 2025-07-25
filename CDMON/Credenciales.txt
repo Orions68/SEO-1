@@ -21,50 +21,26 @@ Prueba para el Examen:
 
 Documentar cómo crear un nuevo proyecto (Plataforma de Pruebas)
 
-Creé el nuevo proyecto pruebaexamen
+Creé el nuevo proyecto examenseo.com
 
 User:
 
-prueba276
+examen765
 
 Pass:
 
-eB43f9XP
-
-Credenciales Wordpress:
-
-User:
-
-ab61bb4b4537
-
-Pass:
-
-91Gcs1PT
-
-
-Terceras Credenciales:
-
-Acceso a la Plataforma:
-
-User:
-
-seotes814
-
-
-Pass:
-
-nII1F72q
+TvBiN0DU
 
 
 Acceso a Wordpress:
 
 User:
 
-480988880b5f
+f17b2845d51f
 
 Pass:
 
-9QIa1HJ2
+8cfVUd1q
 
 
 Para ejecutar en Powershell sin ser Administrador:
