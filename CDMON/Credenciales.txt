@@ -21,26 +21,26 @@ Prueba para el Examen:
 
 Documentar cómo crear un nuevo proyecto (Plataforma de Pruebas)
 
-Creé el nuevo proyecto examenseo.com
+Creé el nuevo proyecto seoexam.com
 
 User:
 
-examen765
+seoexa810
 
 Pass:
 
-TvBiN0DU
+m5lFE7i4
 
 
 Acceso a Wordpress:
 
 User:
 
-f17b2845d51f
+ ceace66fc765
 
 Pass:
 
-8cfVUd1q
+Tk74a4R0
 
 
 Para ejecutar en Powershell sin ser Administrador:
