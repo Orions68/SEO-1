@@ -1,0 +1,20 @@
+Lector de Pantalla:
+
+Voz de Sabina Español México:
+
+Lee un Fichero:
+
+powershell -ExecutionPolicy Bypass -File "C:\Users\Orion\leer_sabina.ps1" -FilePath "ruta\al\archivo.txt"
+
+Lee un Texto:
+
+powershell -ExecutionPolicy Bypass -File "C:\Users\Orion\leer_sabina.ps1" -Text "Tu texto aquí"
+
+
+Cambia la velocidad de lectura:
+
+# Más lento
+powershell -ExecutionPolicy Bypass -File "C:\Users\Orion\leer_sabina.ps1" -FilePath "vocabulario_marketing.txt" -Rate -3
+
+# Más rápido  
+powershell -ExecutionPolicy Bypass -File "C:\Users\Orion\leer_sabina.ps1" -FilePath "vocabulario_marketing.txt" -Rate 3
